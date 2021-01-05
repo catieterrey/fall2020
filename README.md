@@ -11,6 +11,8 @@ processcellprofiler.py takes an output csv file from CellProfiler and determines
 outputs the results in an excel sheet. To use this excel sheet as an input for Java, remove the first column and first row 
 and then replace the input path on line 145 of NeighbourInteractions.java.
 
+processoufti.py does the exact same thing as processcellprofiler.py except that it works with oufti output.
+
 The folder bsim-master contains a copy of BSim2.0 along with the new java code developed this term.
 
 bsim-master/bsim-master/bsim-master takes you to the main BSim2.0 directory. 
