@@ -47,7 +47,7 @@ Note that there are a few file paths which have to be replaced in the code. The 
 on line 145. Replace the path to the csv file with the one on your computer.
 
 run_bsim.py requires openjdk-14.0.2. The install path has to be replaced in the script on line 18.
-Note that openjdk-14.0.2 is already installed by IDEA to C:\Users\username\.jdks\openjdk-14.0.2
+Note that openjdk-14.0.2 is already installed by IDEA to C:\Users\username\\.jdks\openjdk-14.0.2
 
 
 
