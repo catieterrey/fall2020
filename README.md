@@ -24,6 +24,14 @@ NeighbourInteractions.java and Bacterium.java.
 Second, there is the src folder. The src folder contains all of the BSim2.0 source code. In src/bsim/capsule you will find
 the BSimCapsuleBacterium.java class which is used in our simulations.
 
+There is a file in bsim-master/.../bsim-master called compile.sh. This is a slurm script that can be used on Graham in order
+to compile the java program. The username in the script has to be modified before use.
+
+Once the code on Graham is compiled, the compiled files should appear in the bsim-master/.../bsim-master/dist folder.
+In dist/build you will find a file called run.sh. This is a Graham command to run a simulation.
+Due to some changes to the layout of the program, this needs to be modified so that all the files
+are included in the classpath after compilation.
+
 Finally, in the bsim-master/bsim-master/bsim-master folder there is also a python script called run_bsim.py which
 compiles and runs our simulation. This can be modified so that parameters can be given to the java program from the script.
 
