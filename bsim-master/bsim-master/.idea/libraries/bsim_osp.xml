@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bsim-osp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bsim-master/lib/bsim-osp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/bsim-master/lib/bsim-osp.jar!/" />
+    </SOURCES>
+  </library>
+</component>

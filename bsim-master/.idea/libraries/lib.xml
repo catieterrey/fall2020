@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/lib/jcommander-1.49-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/lib/objimport.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/lib/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/lib/bsim-osp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/lib/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

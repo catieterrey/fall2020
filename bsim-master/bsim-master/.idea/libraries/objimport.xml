@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="objimport">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bsim-master/lib/objimport.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

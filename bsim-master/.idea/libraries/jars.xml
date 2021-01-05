@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/legacy/jars/bsim-2008-2d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/legacy/jars/bsim-2009.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/legacy/jars/bsim-2010.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

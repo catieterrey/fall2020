@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="legacy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/legacy/bsim-2010.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bsim-master/bsim-master/legacy/bsim-2010-examples.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
